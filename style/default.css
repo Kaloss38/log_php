@@ -1,0 +1,26 @@
+html {
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+}
+
+#map{
+	padding: 0;
+	margin-top: 25px;
+}
+.footer{
+    padding: 10px;
+    background-color: grey;
+}
+
+.footer2{
+	padding: 10px;
+	height: 100px;
+    background-color: black;
+}
